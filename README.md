@@ -1,5 +1,5 @@
 
-# Game Challenge in JavaScript with Friend Ahemd Farooq
+# Game Challenge in JavaScript with Friend AhmedFarooq
 ![Screenshot](https://github.com/usamahussaindev/Game-challenge-JS/assets/118635657/2d73c38f-9645-4a6f-807f-c201a46dfa2e)
 
 ## Introduction
