@@ -6,6 +6,11 @@
 
 This repository is a part of the Flappy Bird Game Challenge, where the goal is to create a Flappy Bird game using JavaScript within a 3-hour time frame. The challenge is to develop the game without seeking assistance from ChatGPT or any external help.
 
+Participants:
+- [Ahmed Farooq](https://github.com/devahmedfarooq)
+- [Usama Hussain](https://github.com/usamahussaindev)
+
+- 
 ## Getting Started
 
 Clone this repository to your local machine to get started with the challenge:
